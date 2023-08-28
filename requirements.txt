@@ -1,0 +1,14 @@
+peft
+transformers
+torch
+pinecone
+fastapi
+uvicorn
+datasets 
+loralib 
+sentencepiece  
+sentence_transformers
+bitsandbytes 
+accelerate 
+xformers 
+pinecone-client
